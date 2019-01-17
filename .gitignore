@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.zip
+P1-mnist-tpot/mnist-data
+P2-fashion-keras/fashion-data
+P3-cartpole-gym/cartpole_data/
+P4-practical-matters/cvd_data
+P4-practical-matters/example
+P5-text-gen-lstm-hyperas/trump_tweets.csv
+P5-text-gen-lstm-hyperas/test_model.h5
+*.npy
+*.h5
