@@ -9,6 +9,6 @@ P3-cartpole-gym/cartpole_data/
 P4-practical-matters/cvd_data
 P4-practical-matters/example
 P5-text-gen-lstm-hyperas/trump_tweets.csv
-P5-text-gen-lstm-hyperas/test_model.h5
+P5-text-gen-lstm-hyperas/glove.6B
 *.npy
 *.h5
