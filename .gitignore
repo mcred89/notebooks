@@ -12,3 +12,4 @@ P5-text-gen-lstm-hyperas/trump_tweets.csv
 P5-text-gen-lstm-hyperas/glove.6B
 *.npy
 *.h5
+__pycache__
